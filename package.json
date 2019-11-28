@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bnext mock server",
   "scripts": {
-    "start": "node_modules/exprexo/bin/exprexo -p 8021 --verbose -d mocks"
+    "start": "node_modules/exprexo/bin/exprexo -p 8021 -d mocks"
   },
   "keywords": [
     "mock"
