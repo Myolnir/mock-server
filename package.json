@@ -1,0 +1,17 @@
+{
+  "name": "mock-modules",
+  "version": "1.0.0",
+  "description": "Bnext mock server",
+  "scripts": {
+    "start": "node_modules/exprexo/bin/exprexo -p 8021 --verbose -d mocks"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Angel Muelas",
+  "license": "ISC",
+  "dependencies": {
+    "exprexo": "^2.0.0",
+    "handlebars": "^4.5.3"
+  }
+}
