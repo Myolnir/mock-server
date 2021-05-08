@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "exprexo": "^2.0.0",
-    "handlebars": "^4.5.3"
+    "handlebars": "^4.7.7"
   }
 }
